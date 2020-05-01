@@ -1,4 +1,4 @@
-package com.uca.capas.capas.controller;
+package com.uca.capas.controller;
 
 import java.util.ArrayList;
 import java.util.Arrays;
